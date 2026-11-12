@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"The changed line"
-=======
-This is Changed
->>>>>>> e79edcbe4cf0f7b348545b5ef4316b9b9c149228
+"changed line"
